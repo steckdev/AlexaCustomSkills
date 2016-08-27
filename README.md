@@ -1,1 +1,2 @@
 # AlexaCustomSkills
+This has been created and adapted from Amazon online tutorial. This needs to use Developer.Amazon.com/Alexa and AWS.Developer.com/lambda functions. These things together allows you to call networks requests and get the text of the response to a scripture back to the user in the proper order.

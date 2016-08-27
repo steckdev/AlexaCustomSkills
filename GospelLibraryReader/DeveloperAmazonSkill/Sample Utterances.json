@@ -1,0 +1,23 @@
+RandomScriptureMasteryIntent Read Scripture Mastery 
+RandomScriptureMasteryIntent Scripture Mastery 
+RandomScriptureMasteryIntent Get Scripture Mastery 
+RandomScriptureMasteryIntent Find Scripture Mastery 
+RandomScriptureMasteryIntent Random Scripture Mastery 
+ReadNextVerseIntent Read next 
+ReadNextVerseIntent Next verse 
+ReadNextVerseIntent Verse {startVerse} 
+ReadNextVerseIntent Read verse {startVerse} 
+ReadBookChapterVerseIntent Read {book} {chapter} {startVerse} 
+ReadBookChapterVerseIntent Read {book} {chapter} verse {startVerse} 
+ReadBookChapterVerseIntent Read {book} chapter {chapter} verse {startVerse} 
+ReadBookChapterVerseIntent Read {book} chapter {chapter} verse {startVerse} to {endVerse} 
+ReadBookChapterVerseIntent Read {book} chapter {chapter} verse {startVerse} through {endVerse} 
+ReadBookChapterVerseIntent Get {book} {chapter} {startVerse} 
+ReadBookChapterVerseIntent Get {book} {chapter} verse {startVerse} 
+ReadBookChapterVerseIntent Get {book} chapter {chapter} verse {startVerse} 
+ReadBookChapterVerseIntent Get {book} chapter {chapter} verse {startVerse} to {endVerse} 
+ReadBookChapterVerseIntent Get {book} chapter {chapter} verse {startVerse} through {endVerse} 
+ReadBookChapterVerseIntent Play {book} {chapter} verse {startVerse} 
+ReadBookChapterVerseIntent Play {book} chapter {chapter} verse {startVerse} 
+ReadBookChapterVerseIntent Play {book} chapter {chapter} verse {startVerse} to {endVerse} 
+ReadBookChapterVerseIntent Play {book} chapter {chapter} verse {startVerse} through {endVerse} 

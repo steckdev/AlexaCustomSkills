@@ -1,0 +1,50 @@
+{
+ "intents": [ 
+   { 
+     "intent": "RandomScriptureMasteryIntent" 
+   }, 
+   { 
+     "intent": "ReadBookChapterVerseIntent", 
+     "slots": [ 
+       { 
+         "name": "book", 
+         "type" : "BOMBOOKS" 
+       }, 
+       { 
+         "name": "chapter", 
+         "type" : "AMAZON.NUMBER" 
+       }, 
+               { 
+         "name": "startVerse", 
+         "type" : "AMAZON.NUMBER" 
+       }, 
+                       { 
+         "name": "endVerse", 
+         "type" : "AMAZON.NUMBER" 
+       } 
+     ] 
+   }, 
+           { 
+     "intent": "ReadNextVerseIntent", 
+     "slots": [ 
+       { 
+         "name": "startVerse", 
+         "type" : "AMAZON.NUMBER" 
+       }, 
+       { 
+         "name": "endVerse", 
+         "type" : "AMAZON.NUMBER" 
+       } 
+     ] 
+   }, 
+   { 
+     "intent": "AMAZON.HelpIntent" 
+   }, 
+   { 
+     "intent": "AMAZON.StopIntent" 
+   }, 
+   { 
+     "intent": "AMAZON.CancelIntent" 
+   } 
+ ] 
+} 
